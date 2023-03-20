@@ -1,6 +1,6 @@
 # Lab 5x requirements
 
-A new assignment requirement will appear here every week, so check back regularly. Commit and push everything to your Lab-5x repository.
+A new assignment requirement will appear here every week, so check back regularly. Commit and push everything to your **Lab-5x** repository.
 
 ----
 ----
