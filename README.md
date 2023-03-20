@@ -13,8 +13,6 @@ A new assignment requirement will appear here every week, so check back regularl
 
 **Last chance deadline and penalties**: Week 8, -0.1 points / week delayed
 
-----
-
 Continue working on the application from the previous assignment.
 
 You will need to:
