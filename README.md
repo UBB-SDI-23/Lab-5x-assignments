@@ -1,6 +1,6 @@
 # Lab 5x requirements
 
-A new assignment requirement will appear here every week, so check back regularly. Commit everything to your Lab-5x repository.
+A new assignment requirement will appear here every week, so check back regularly. Commit and push everything to your Lab-5x repository.
 
 ----
 ----
@@ -15,7 +15,7 @@ A new assignment requirement will appear here every week, so check back regularl
 
 ----
 
-Continue working on the application from the previous assignment. Push your project to this repository.
+Continue working on the application from the previous assignment.
 
 You will need to:
 - Add a frontend to your application. It should be a Single Page Application (SPA). You can choose any frontend framework or library that lets you create SPAs: React, Angular, Vue etc. It should be something that is under active development.
