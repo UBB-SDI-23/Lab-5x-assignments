@@ -23,9 +23,9 @@ You will need to:
 This is a long term setup: you will keep working like this for the forseeable future, so choose your teammate accordingly.
 
 Ideally, each team should have `2` members. However, where there are an odd number of students in a lab group or when your lab teacher admits exceptions we will also allow teams of `3` people: `Alice`, `Bob` and `Charlie`. They will work like this:
-- `Alice` write a frontend for `Bob`'s REST API.
-- `Bob` writes a frontend for `Charlie`' REST API.
-- `Charlie` write a frontend for `Alice`'s REST API.
+- `Alice` writes a frontend for `Bob`'s REST API.
+- `Bob` writes a frontend for `Charlie`'s REST API.
+- `Charlie` writes a frontend for `Alice`'s REST API.
 
 Regarding grading:
 - If a team member is not present, the other team members must present their own frontend in the browser and their own REST API in Swagger and Postman. Only they will receive a grade.
