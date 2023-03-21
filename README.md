@@ -16,7 +16,7 @@ A new assignment requirement will appear here every week, so check back regularl
 You will need to:
 - Make teams of two. We will refer to the two members as `Alice` and `Bob`. `Alice` will create a frontend for `Bob`'s REST API and vice versa. They are not allowed to work on each other's REST API in any way. They are only allowed to communicate with each other to request necessary information (such as the REST API deployment URL and the Swagger URL), changes and bug fixes. Project sharing is strictly forbidden and is considered fraud if they are caught doing it, so they are very careful not to do this.
 - The frontend should be a Single Page Application (SPA). You can choose any frontend framework or library that lets you create SPAs: React, Angular, Vue etc. It should be something that is under active development.
-- Add Swagger to your REST API. It should be publicly accessible.
+- Add Swagger to your REST API. It should be publicly accessible. Share the Swagger URL with your teammate.
 - Implement at least one CRUD and one filter / statististical report on the frontend.
 - Deploy the frontend either on https://www.netlify.com/ (or equivalent) or on your virtual machine. If you choose netlify or equivalent, it should deploy automatically when you commit to github.
 
