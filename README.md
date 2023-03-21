@@ -28,6 +28,6 @@ Ideally, each team should have `2` members. However, where there are an odd numb
 - `Charlie` writes a frontend for `Alice`'s REST API.
 
 Regarding grading:
-- If a team member is not present, the other team members must present their own frontend in the browser and their own REST API in Swagger and Postman. Only they will receive a grade.
+- If a team member is absent, the other team members must present their own frontend in the browser and their own REST API in Swagger and Postman. Only they will receive a grade.
 - Your grade depends on your team member as well. If they do not deploy their API or do not work on it, you are not allowed to do it yourself. You must find another team and let your lab teacher know.
 - If you decide that you absolutely do not want to work in a team then all of the labs involving such team work will grant you at most `50%` of the posted points.
