@@ -13,8 +13,6 @@ A new assignment requirement will appear here every week, so check back regularl
 
 **Last chance deadline and penalties**: Week 9, -0.1 points / week delayed
 
-----
-
 This assignment, as well as all future ones, must be completed on your deployed applications.
 
 You will need to:
