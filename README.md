@@ -25,11 +25,11 @@ You will need to:
 - Make sure that your functionalities have efficient implementations. This may require adding indexes to your database, implementing autocomplete and fixing things on the backend. There shouldn't be a noticeable slowdown when interacting with any page.
 - Each show all page should display, for each row, an aggregated value on a related entity (for example, the number of students enrolled in the course for the show all courses page). This should still be efficient and not affect page load times too much.
 - Duplicate your validation logic on the frontend and add `2` more validation rules, also duplicated on the backend and the frontend. 
-- Error messages should show up on the frontend near the corresponding textboxes or using Tosters.
+- Error messages should show up on the frontend near the corresponding textboxes or using Toasters.
 - If you haven't already, add a CSS Components Library to your frontend: Material UI, Bulma, Bootstrap, Tailwind or something similar.
 - Secure and improve your server by:
     - Installing `nginx` and a dedicated application server for your backend. The `nginx` reverse proxy server should communicate with your application server and the application server should not be directly exposed to the internet. The application server can be Gunicorn, Apache, Tomcat or something else. For .NET projects, you can just use IIS or the default deployment scheme. If you do not do it this way then you must have a very compelling reason that you can explain with your tech stack's documentation as support.
-    - Installing an SSL certificate using something like `certbot` or `acmesh`. Since your DNS can change if you shut down your VM, I recommend starting and configuring it well in advance of your lab, to account for any possible errors with the SSL generation. Everything should now use `https`.
+    - Installing an SSL certificate using something like `certbot` or `acmesh` and `freedns`. Since your VM IP will change if you shut down your VM, I recommend starting and configuring it well in advance of your lab, to account for any possible delays with the DNS propagation. Everything should now use `https`. Make sure you update your frontend accordingly.
     - Making both `nginx` and your application server services that start when your VM starts and that you control with commands such as `sudo systemctl start nginx`, `sudo systemctl start your_app_server`. You might be asked to show this by restarting your VM.
 
 
