@@ -20,7 +20,7 @@ You will need to:
     - 3 entities.
     - 1 intermediate entity for a many to many relation, whose CRUDs can be handled either through dedicated routes or through the other entities' routes.
     - 3 validation rules.
-    - one filter by a numerical field.
+    - 1 filter by a numerical field.
     - 2 statistical reports.
 - Make sure that your functionalities have efficient implementations. This may require adding indexes to your database, implementing autocomplete and fixing things on the backend. There shouldn't be a noticeable slowdown when interacting with any page.
 - Each show all page should display, for each row, an aggregated value on a related entity (for example, the number of students enrolled in the course for the show all courses page). This should still be efficient and not affect page load times too much.
