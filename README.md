@@ -16,7 +16,7 @@ A new assignment requirement will appear here every week, so check back regularl
 For this and all future assignments, unless otherwise specified, we are no longer treating the backend and the frontend separately when talking about features: implementing most features will require you to work on both the backend and the frontend, even if this is not explicitly stated.
 
 You will need to:
-- Implement all functionalities on the frontend. Implement pagination on the backend and navigation through it on the frontend. You are **not allowed** to use any built-in pagination classes or any pagination library. You must implement the pagination class or functionality yourself. Do it in a way that allows for changes. Your live coding task during the lab will involve the pagination aspect. Recall that you should have at least the following from previous assignments and live tasks:  
+- Implement all functionalities on the frontend. Implement pagination on the backend and navigation through it on the frontend. You are **not allowed** to **only** use built-in pagination classes and pagination libraries. You must implement the pagination class or functionality yourself either on the frontend or on the backend. Do it in a way that allows for changes. For example, you may use built-in classes on the backend and no built-in classes on the frontend. Your live coding task during the lab will involve the pagination aspect. Recall that you should have at least the following from previous assignments and live tasks:  
     - 3 entities.
     - 1 intermediate entity for a many to many relation, whose CRUDs can be handled either through dedicated routes or through the other entities' routes.
     - 3 validation rules.
