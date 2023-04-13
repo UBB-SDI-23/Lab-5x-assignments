@@ -5,6 +5,8 @@ A new assignment requirement will appear here every week, so check back regularl
 ----
 ----
 
+## Lab 8 assignment
+
 **Points**: 0.5
 
 **Deadline**: Week 9
