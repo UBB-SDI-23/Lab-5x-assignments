@@ -17,7 +17,9 @@ You will need to implement the following user roles:
 - Anonymous user (no login): can only **read** everything, cannot add, cannot edit;
 - Logged in user, **regular** role: can add entities and can edit the entities they added;
 - Logged in user, **moderator** role: can add entities and can edit all entities;
-- Logged in user, **admin** role: can add entities and can edit all entities, has access to a page where they can edit user roles for everyone except other admins.
+- Logged in user, **admin** role: 
+    - can add entities and can edit all entities, has access to a page where they can edit user roles for everyone except other admins;
+    - has access to a page from where they can **bulk delete** data and from where they can **run the data generation scripts** you wrote for the previous assignments.
 
 ----
 ----
