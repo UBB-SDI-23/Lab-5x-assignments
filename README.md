@@ -25,6 +25,8 @@ You can make your first admin user by directly editing the database.
 
 Permissions need to be checked on both backend and frontend. We will check by making API requests from Postman using users with the wrong roles.
 
+If you haven't already, make sure that you do not store user passwords in plain text. They should at least by hashed with SHA-256.
+
 ----
 ----
 
