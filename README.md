@@ -18,8 +18,12 @@ You will need to implement the following user roles:
 - Logged in user, **regular** role: can add entities and can edit the entities they added;
 - Logged in user, **moderator** role: can add entities and can edit all entities;
 - Logged in user, **admin** role: 
-    - can add entities and can edit all entities, has access to a page where they can edit user roles for everyone except other admins;
-    - has access to a page from where they can **bulk delete** data and from where they can **run the data generation scripts** you wrote for the previous assignments.
+    - can add entities and can edit all entities, has access to a page where they can edit user roles for everyone including other admins;
+    - has access to a page from where they can **bulk delete** data and from where they can **run the data generation scripts** you wrote for the previous assignments. If you find it easier, you can refactor them such that the data is generated directly from your code and not from the SQL scripts, but this is not mandatory.
+
+You can make your first admin user by directly editing the database.
+
+Permissions need to be checked on both backend and frontend. We will check by making API requests from Postman using users with the wrong roles.
 
 ----
 ----
