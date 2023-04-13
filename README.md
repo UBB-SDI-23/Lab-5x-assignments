@@ -5,6 +5,23 @@ A new assignment requirement will appear here every week, so check back regularl
 ----
 ----
 
+## Lab 9 assignment
+
+**Points**: 0.5
+
+**Deadline**: Week 10
+
+**Last chance deadline and penalties**: Week 12, -0.2 points / week delayed
+
+You will need to implement the following user roles:
+- Anonymous user (no login): can only **read** everything, cannot add, cannot edit;
+- Logged in user, **regular** role: can add entities and can edit the entities they added;
+- Logged in user, **moderator** role: can add entities and can edit all entities;
+- Logged in user, **admin** role: can add entities and can edit all entities, has access to a page where they can edit user roles for everyone except other admins.
+
+----
+----
+
 ## Lab 8 assignment
 
 **Points**: 0.5
