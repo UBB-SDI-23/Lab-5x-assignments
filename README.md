@@ -18,7 +18,7 @@ You will need to:
 - Write two E2E tests for your application.
 
 The following points are available as bonuses:
-- +0.5: setup a Kubernetes Cluster on your Cloud Provider (for exampleȘ https://cloud.google.com/kubernetes-engine) and use your app with it. Use JMeter with the Ultimate Thread Group plugin and show how Kubernetes scales resources to accomodate requests from JMeter. Correlate the JMeter graphs with the Kubernetes graphs.
+- +0.5: setup a Kubernetes Cluster on your Cloud Provider (for example: https://cloud.google.com/kubernetes-engine) and use your app with it. Use JMeter with the Ultimate Thread Group plugin and show how Kubernetes scales resources to accomodate requests from JMeter. Correlate the JMeter graphs with the Kubernetes graphs.
 - +0.5: make your frontend responsive. It should seamlessly adapt to any screen size, with no scrollbars and with proper component sizes and layout.
 
 ----
