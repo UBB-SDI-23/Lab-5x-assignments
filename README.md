@@ -5,6 +5,25 @@ A new assignment requirement will appear here every week, so check back regularl
 ----
 ----
 
+## Lab 10 assignment
+
+**Points**: 0.5, +1 bonus
+
+**Deadline**: Week 11
+
+**Last chance deadline and penalties**: Week 13, -0.2 points / week delayed
+
+You will need to:
+- Dockerize your application. You should have setups both for local development and production deployment. Make a new VM, install docker and docker-compose on it and deploy the project like that.
+- Write two E2E tests for your application.
+
+The following points are available as bonuses:
+- +0.5: setup a Kubernetes Cluster on your Cloud Provider (for exampleȘ https://cloud.google.com/kubernetes-engine) and use your app with it. Use JMeter with the Ultimate Thread Group plugin and show how Kubernetes scales resources to accomodate requests from JMeter. Correlate the JMeter graphs with the Kubernetes graphs.
+- +0.5: make your frontend responsive. It should seamlessly adapt to any screen size, with no scrollbars and with proper component sizes and layout.
+
+----
+----
+
 ## Lab 9 assignment
 
 **Points**: 0.5
