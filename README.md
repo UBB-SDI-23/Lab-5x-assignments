@@ -5,6 +5,21 @@ A new assignment requirement will appear here every week, so check back regularl
 ----
 ----
 
+## Lab 11 assignment
+
+**Points**: 0.5
+
+**Deadline**: Week 12
+
+**Last chance deadline and penalties**: Week 14, -0.2 points / week delayed
+
+You will need to:
+- Make one or more graphs containing stress test (spike test) results: it should be clear from your graph(s) how the number of users affects the CPU usage and the request response times. Use JMeter. Start with few users: `~2` constant ones and `~10` for the spikes and gradually move up until you hit `100%` CPU usage. You should make requests to all the (public) endpoints of your API. You only need to do `GET` requests.
+- Implement a chat page on your web app using websockets. Every visitor should be able to see messages from all other visitors. Let your visitors choose a nickname. You do not need persistence for the messages. You can either store them in memory or discard them after sending them to all the currently connected clients.
+
+----
+----
+
 ## Lab 10 assignment
 
 **Points**: 0.5, +1 bonus
