@@ -16,7 +16,8 @@ A new assignment requirement will appear here every week, so check back regularl
 You will need to:
 - Make your application as user friendly as possible: any unclear features or names will result in a lower grade.
 - Make your code as readable and efficient as possible: any "code smells" will result in a lower grade.
-- Write documentation for how to get your app running. Also mention any tech stack choices you made, any tradeoffs and anything else that might be relevant.
+- Write documentation for how to get your app running. Also mention any tech stack choices you made, any tradeoffs and anything else that might be relevant. Anything relevant that is missing from the documentation will result in a lower grade.
+- Aim for production-quality levels of UX, code quality and documentation clarity.
 
 ----
 ----
