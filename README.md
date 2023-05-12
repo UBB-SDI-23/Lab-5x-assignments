@@ -5,6 +5,36 @@ A new assignment requirement will appear here every week, so check back regularl
 ----
 ----
 
+## Lab 13 assignment
+
+**Points**: 0.5
+
+**Deadline**: Week 14
+
+**Last change deadline and penalties**: Week 14
+
+You will need to:
+- Make your application as user friendly as possible: any unclear features or names will result in a lower grade.
+- Make your code as readable and efficient as possible: any "code smells" will result in a lower grade.
+- Write documentation for how to get your app running. Also mention any tech stack choices you made, any tradeoffs and anything else that might be relevant.
+
+----
+----
+
+## Lab 12 assignment
+
+**Points**: 0.5
+
+**Deadline**: Week 13
+
+**Last change deadline and penalties**: Week 14, -0.3 points / week delayed
+
+You will need to:
+- Come up with a reasonable way to integrate a machine learning model into your application. It can be trained on any data (your application's data or an external data set) and there should be a functionality in your application that makes use of your model's predictions. You can use any model you want. You will be graded based on how realistic your choices of training data and functionality are.
+
+----
+----
+
 ## Lab 11 assignment
 
 **Points**: 0.5, +0.3 bonus
